@@ -1,5 +1,5 @@
 
- # An-Extended-Polyalphabetic-Cipher-Using-Directional-Shift-Patterns
+ # Polyalphabetic-Cipher-Using-Directional-Shift-Patterns
 A polyalphabetic cipher is any cipher based on substitution using multiple substitution alphabets,
 which is more secure then mono-alphabetic cipher because a mono-alphabetic cipher is any cipher in
 which the letters of the plaintext are mapped to ciphertext letters based on a single alphabet key.
